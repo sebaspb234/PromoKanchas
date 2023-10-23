@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/PromoKanchas/static/css/main.dc07a658.css",
+    "main.js": "/PromoKanchas/static/js/main.ba79fbf6.js",
+    "static/media/home-banner-image.png": "/PromoKanchas/static/media/home-banner-image.876b6a8d2c7db21f7543.png",
+    "static/media/Cancha4.jpg": "/PromoKanchas/static/media/Cancha4.a6d4700d8fd1f671e9c8.jpg",
+    "static/media/home-banner-background.png": "/PromoKanchas/static/media/home-banner-background.480c99fd9b4fdbd40bc9.png",
+    "static/media/Logo.jpeg": "/PromoKanchas/static/media/Logo.d1bb4ed7be45e4546cf5.jpeg",
+    "static/media/Cancha.jpeg": "/PromoKanchas/static/media/Cancha.0be5f8868f6949a43a7c.jpeg",
+    "static/media/Cancha2.jpeg": "/PromoKanchas/static/media/Cancha2.668274cb8954572d4e2a.jpeg",
+    "static/media/Cancha6.jpeg": "/PromoKanchas/static/media/Cancha6.b81538825df8804988de.jpeg",
+    "static/media/Cancha5.jpeg": "/PromoKanchas/static/media/Cancha5.fb42f0d2182aa5708b7a.jpeg",
+    "static/media/Cancha3.jpg": "/PromoKanchas/static/media/Cancha3.9387f34599dce8e90473.jpg",
+    "static/media/about-background-image.png": "/PromoKanchas/static/media/about-background-image.9e328b4702a9a705400b.png",
+    "static/media/delivery-image.png": "/PromoKanchas/static/media/delivery-image.bdbf2e367934426df081.png",
+    "static/media/Logo.svg": "/PromoKanchas/static/media/Logo.e04f4319ea0059a833b1ca8d03810b60.svg",
+    "index.html": "/PromoKanchas/index.html",
+    "main.dc07a658.css.map": "/PromoKanchas/static/css/main.dc07a658.css.map",
+    "main.ba79fbf6.js.map": "/PromoKanchas/static/js/main.ba79fbf6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc07a658.css",
+    "static/js/main.ba79fbf6.js"
+  ]
+}
